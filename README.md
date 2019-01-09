@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Sup dudes!
+
+Just adding a few words to the script
